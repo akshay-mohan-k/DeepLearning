@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed2d7b62-a54f-42cb-a2b0-435a640446e9" name="Changes" comment="perceptron basic">
-      <change afterPath="$PROJECT_DIR$/ANN/customer_churn_prediction.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/DeepLearning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DeepLearning.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Perceptron/perceptron_basic.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Perceptron/perceptron_basic.ipynb" afterDir="false" />
+    <list default="true" id="ed2d7b62-a54f-42cb-a2b0-435a640446e9" name="Changes" comment="16/11/25">
+      <change afterPath="$PROJECT_DIR$/ANN/feature_scaling.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +83,7 @@
       <workItem from="1763274525836" duration="7000" />
       <workItem from="1763274892968" duration="376000" />
       <workItem from="1763275429994" duration="509000" />
-      <workItem from="1763275983669" duration="4458000" />
+      <workItem from="1763275983669" duration="10732000" />
     </task>
     <task id="LOCAL-00001" summary="perceptron basic">
       <option name="closed" value="true" />
@@ -97,7 +93,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763210072884</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="16/11/25">
+      <option name="closed" value="true" />
+      <created>1763294909225</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1763294909225</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,6 +109,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="perceptron basic" />
-    <option name="LAST_COMMIT_MESSAGE" value="perceptron basic" />
+    <MESSAGE value="16/11/25" />
+    <option name="LAST_COMMIT_MESSAGE" value="16/11/25" />
   </component>
 </project>
