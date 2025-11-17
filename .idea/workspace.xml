@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed2d7b62-a54f-42cb-a2b0-435a640446e9" name="Changes" comment="16/11/25">
-      <change afterPath="$PROJECT_DIR$/ANN/feature_scaling.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANN/regularization.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ANN/customer_churn_prediction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ANN/customer_churn_prediction.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ANN/feature_scaling.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ANN/feature_scaling.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,6 +87,7 @@
       <workItem from="1763274892968" duration="376000" />
       <workItem from="1763275429994" duration="509000" />
       <workItem from="1763275983669" duration="10732000" />
+      <workItem from="1763362072374" duration="3714000" />
     </task>
     <task id="LOCAL-00001" summary="perceptron basic">
       <option name="closed" value="true" />
