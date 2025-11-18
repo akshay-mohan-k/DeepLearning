@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed2d7b62-a54f-42cb-a2b0-435a640446e9" name="Changes" comment="padding">
-      <change afterPath="$PROJECT_DIR$/CNN/strides.ipynb" afterDir="false" />
+    <list default="true" id="ed2d7b62-a54f-42cb-a2b0-435a640446e9" name="Changes" comment="striding">
+      <change afterPath="$PROJECT_DIR$/CNN/pooling.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +86,7 @@
       <workItem from="1763275983669" duration="10732000" />
       <workItem from="1763362072374" duration="10910000" />
       <workItem from="1763443066651" duration="1733000" />
-      <workItem from="1763444883830" duration="6848000" />
+      <workItem from="1763444883830" duration="8325000" />
     </task>
     <task id="LOCAL-00001" summary="perceptron basic">
       <option name="closed" value="true" />
@@ -128,7 +128,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763471799481</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="striding">
+      <option name="closed" value="true" />
+      <created>1763477368850</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1763477368850</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,6 +148,7 @@
     <MESSAGE value="regularization" />
     <MESSAGE value="keras tuning" />
     <MESSAGE value="padding" />
-    <option name="LAST_COMMIT_MESSAGE" value="padding" />
+    <MESSAGE value="striding" />
+    <option name="LAST_COMMIT_MESSAGE" value="striding" />
   </component>
 </project>
