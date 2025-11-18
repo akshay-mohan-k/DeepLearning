@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed2d7b62-a54f-42cb-a2b0-435a640446e9" name="Changes" comment="16/11/25">
-      <change afterPath="$PROJECT_DIR$/ANN/regularization.ipynb" afterDir="false" />
+    <list default="true" id="ed2d7b62-a54f-42cb-a2b0-435a640446e9" name="Changes" comment="regularization">
+      <change afterPath="$PROJECT_DIR$/ANN/keras_tuner.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ANN/customer_churn_prediction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ANN/customer_churn_prediction.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ANN/feature_scaling.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ANN/feature_scaling.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +85,9 @@
       <workItem from="1763274892968" duration="376000" />
       <workItem from="1763275429994" duration="509000" />
       <workItem from="1763275983669" duration="10732000" />
-      <workItem from="1763362072374" duration="3714000" />
+      <workItem from="1763362072374" duration="10910000" />
+      <workItem from="1763443066651" duration="1733000" />
+      <workItem from="1763444883830" duration="3306000" />
     </task>
     <task id="LOCAL-00001" summary="perceptron basic">
       <option name="closed" value="true" />
@@ -105,7 +105,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763294909225</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="regularization">
+      <option name="closed" value="true" />
+      <created>1763377918799</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1763377918799</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,6 +122,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="perceptron basic" />
     <MESSAGE value="16/11/25" />
-    <option name="LAST_COMMIT_MESSAGE" value="16/11/25" />
+    <MESSAGE value="regularization" />
+    <option name="LAST_COMMIT_MESSAGE" value="regularization" />
   </component>
 </project>
